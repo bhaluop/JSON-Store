@@ -6453,6 +6453,120 @@
   [
     {
       "rollNo": "2201294059",
+      "name": "HIMANSU JENA",
+      "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
+      "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
+      "sgpa": "7.88"
+    },
+    {
+      "subjects": [
+        {
+          "slNo": 1,
+          "semId": "4",
+          "code": "RCN4F001",
+          "name": "Constitution of India",
+          "type": "T",
+          "credits": 0,
+          "grade": "O",
+          "points": 10
+        },
+        {
+          "slNo": 2,
+          "semId": "4",
+          "code": "RCS4C001",
+          "name": "Discrete Mathematics",
+          "type": "T",
+          "credits": 3,
+          "grade": "B",
+          "points": 7
+        },
+        {
+          "slNo": 3,
+          "semId": "4",
+          "code": "RCS4C002",
+          "name": "Design and Analysis of Algorithm",
+          "type": "T",
+          "credits": 3,
+          "grade": "B",
+          "points": 7
+        },
+        {
+          "slNo": 4,
+          "semId": "4",
+          "code": "RCS4C003",
+          "name": "Computer Organization and Architecture",
+          "type": "T",
+          "credits": 3,
+          "grade": "A",
+          "points": 8
+        },
+        {
+          "slNo": 5,
+          "semId": "4",
+          "code": "RCS4D002",
+          "name": "Microprocessor and Microcontroller",
+          "type": "T",
+          "credits": 3,
+          "grade": "C",
+          "points": 6
+        },
+        {
+          "slNo": 6,
+          "semId": "4",
+          "code": "RCS4G002",
+          "name": "Digital Signal Processing",
+          "type": "T",
+          "credits": 3,
+          "grade": "B",
+          "points": 7
+        },
+        {
+          "slNo": 7,
+          "semId": "4",
+          "code": "ROB4E002",
+          "name": "Organisational Behaviour",
+          "type": "T",
+          "credits": 3,
+          "grade": "A",
+          "points": 8
+        },
+        {
+          "slNo": 8,
+          "semId": "4",
+          "code": "RCS4C201",
+          "name": "Problem Solving and Python Programming Laboratory",
+          "type": "P",
+          "credits": 2,
+          "grade": "O",
+          "points": 10
+        },
+        {
+          "slNo": 9,
+          "semId": "4",
+          "code": "RCS4C202",
+          "name": "Design and Analysis of Algorithms Laboratory",
+          "type": "P",
+          "credits": 2,
+          "grade": "O",
+          "points": 10
+        },
+        {
+          "slNo": 10,
+          "semId": "4",
+          "code": "RCS4C203",
+          "name": "Computer Organization and Architecture Laboratory",
+          "type": "P",
+          "credits": 2,
+          "grade": "O",
+          "points": 10
+        }
+      ]
+    }
+  ],
+ 
+  [
+    {
+      "rollNo": "2201294059",
       "name": "HIMADRI RAJ DAS",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
@@ -6563,119 +6677,7 @@
       ]
     }
   ],
-  [
-    {
-      "rollNo": "2201294060",
-      "name": "HIMANGSHU MISHRA",
-      "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
-      "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "6.88"
-    },
-    {
-      "subjects": [
-        {
-          "slNo": 1,
-          "semId": "4",
-          "code": "RCN4F001",
-          "name": "Constitution of India",
-          "type": "T",
-          "credits": 0,
-          "grade": "O",
-          "points": 10
-        },
-        {
-          "slNo": 2,
-          "semId": "4",
-          "code": "RCS4C001",
-          "name": "Discrete Mathematics",
-          "type": "T",
-          "credits": 3,
-          "grade": "B",
-          "points": 7
-        },
-        {
-          "slNo": 3,
-          "semId": "4",
-          "code": "RCS4C002",
-          "name": "Design and Analysis of Algorithm",
-          "type": "T",
-          "credits": 3,
-          "grade": "C",
-          "points": 6
-        },
-        {
-          "slNo": 4,
-          "semId": "4",
-          "code": "RCS4C003",
-          "name": "Computer Organization and Architecture",
-          "type": "T",
-          "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
-        },
-        {
-          "slNo": 5,
-          "semId": "4",
-          "code": "RCS4D002",
-          "name": "Microprocessor and Microcontroller",
-          "type": "T",
-          "credits": 3,
-          "grade": "C",
-          "points": 6
-        },
-        {
-          "slNo": 6,
-          "semId": "4",
-          "code": "RCS4G002",
-          "name": "Digital Signal Processing",
-          "type": "T",
-          "credits": 3,
-          "grade": "B",
-          "points": 7
-        },
-        {
-          "slNo": 7,
-          "semId": "4",
-          "code": "ROB4E002",
-          "name": "Organisational Behaviour",
-          "type": "T",
-          "credits": 3,
-          "grade": "B",
-          "points": 7
-        },
-        {
-          "slNo": 8,
-          "semId": "4",
-          "code": "RCS4C201",
-          "name": "Problem Solving and Python Programming Laboratory",
-          "type": "P",
-          "credits": 2,
-          "grade": "O",
-          "points": 10
-        },
-        {
-          "slNo": 9,
-          "semId": "4",
-          "code": "RCS4C202",
-          "name": "Design and Analysis of Algorithms Laboratory",
-          "type": "P",
-          "credits": 2,
-          "grade": "O",
-          "points": 10
-        },
-        {
-          "slNo": 10,
-          "semId": "4",
-          "code": "RCS4C203",
-          "name": "Computer Organization and Architecture Laboratory",
-          "type": "P",
-          "credits": 2,
-          "grade": "O",
-          "points": 10
-        }
-      ]
-    }
-  ],
+ 
   [
     {
       "rollNo": "2201294061",
