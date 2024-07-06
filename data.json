@@ -344,7 +344,7 @@
       "name": "ADITYA KUMAR DASH",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7.13"
+      "sgpa": "7.63"
     },
     {
       "subjects": [
@@ -365,8 +365,8 @@
           "name": "Discrete Mathematics",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 3,
@@ -1700,7 +1700,7 @@
       "name": "ANANDA CHANDA",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7.75"
+      "sgpa": "8.25"
     },
     {
       "subjects": [
@@ -1731,8 +1731,8 @@
           "name": "Design and Analysis of Algorithm",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 4,
@@ -1823,7 +1823,7 @@
       "name": "ANANYA SUBHADARSINI",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7.25"
+      "sgpa": "7.75"
     },
     {
       "subjects": [
@@ -1854,8 +1854,8 @@
           "name": "Design and Analysis of Algorithm",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 4,
@@ -2049,7 +2049,7 @@
       "name": "ARCHANA DIGAL",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "6.5"
+      "sgpa": "6.88"
     },
     {
       "subjects": [
@@ -2080,8 +2080,8 @@
           "name": "Design and Analysis of Algorithm",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "D",
+          "points": 5
         },
         {
           "slNo": 4,
@@ -3066,7 +3066,7 @@
       "name": "B. CHAITANYA",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7"
+      "sgpa": "7.63"
     },
     {
       "subjects": [
@@ -3087,8 +3087,8 @@
           "name": "Discrete Mathematics",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "B",
+          "points": 7
         },
         {
           "slNo": 3,
@@ -3518,7 +3518,7 @@
       "name": "BIBHIDEEPAN GIRI",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7.25"
+      "sgpa": "7.75"
     },
     {
       "subjects": [
@@ -3539,8 +3539,8 @@
           "name": "Discrete Mathematics",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 3,
@@ -4874,7 +4874,7 @@
       "name": "DEBASIS  BISWAL",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "6.75"
+      "sgpa": "7.25"
     },
     {
       "subjects": [
@@ -4915,8 +4915,8 @@
           "name": "Computer Organization and Architecture",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 5,
@@ -6566,10 +6566,10 @@
   [
     {
       "rollNo": "2201294060",
-      "name": "Abhineet Singh",
+      "name": "HIMANGSHU MISHRA",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "6.38"
+      "sgpa": "6.88"
     },
     {
       "subjects": [
@@ -6600,8 +6600,8 @@
           "name": "Design and Analysis of Algorithm",
           "type": "T",
           "credits": 3,
-          "grade": "B",
-          "points": 7
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 4,
@@ -6610,8 +6610,8 @@
           "name": "Computer Organization and Architecture",
           "type": "T",
           "credits": 3,
-          "grade": "B",
-          "points": 7
+          "grade": "F(Ex)",
+          "points": 2
         },
         {
           "slNo": 5,
@@ -10072,7 +10072,7 @@
       "name": "OMM PRAKASH SAMAL",
       "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
       "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-      "sgpa": "7.5"
+      "sgpa": "8"
     },
     {
       "subjects": [
@@ -10113,8 +10113,8 @@
           "name": "Computer Organization and Architecture",
           "type": "T",
           "credits": 3,
-          "grade": "F(Ex)",
-          "points": 2
+          "grade": "C",
+          "points": 6
         },
         {
           "slNo": 5,
