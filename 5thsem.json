@@ -5242,10 +5242,10 @@
   },
   {
     "rollNo": "2201294060",
-    "name": "HIMANGSHU MISHRA",
+    "name": "HIMANSU DAS",
     "college": "RAAJDHANI ENGINEERING COLLEGE, BHUBANESWAR",
     "branchName": "B.Tech.(COMPUTER SCIENCE & ENGINEERING)",
-    "sgpa": "8.5",
+    "sgpa": "7.45",
     "subjects": [
       {
         "slNo": 1,
@@ -5254,8 +5254,8 @@
         "name": "Formal Languages and Automata Theory",
         "type": "T",
         "credits": 3,
-        "grade": "B",
-        "points": 7
+        "grade": "A",
+        "points": 8
       },
       {
         "slNo": 2,
@@ -5264,8 +5264,8 @@
         "name": "Database Management Systems",
         "type": "T",
         "credits": 3,
-        "grade": "A",
-        "points": 8
+        "grade": "E",
+        "points": 9
       },
       {
         "slNo": 3,
@@ -5274,8 +5274,8 @@
         "name": "Operating Systems",
         "type": "T",
         "credits": 3,
-        "grade": "A",
-        "points": 8
+        "grade": "C",
+        "points": 6
       },
       {
         "slNo": 4,
@@ -5284,8 +5284,8 @@
         "name": "Artificial Intelligence and Machine Learning",
         "type": "T",
         "credits": 3,
-        "grade": "A",
-        "points": 8
+        "grade": "B",
+        "points": 7
       },
       {
         "slNo": 5,
@@ -5349,6 +5349,7 @@
       }
     ]
   },
+
   {
     "rollNo": "2201294061",
     "name": "HIMANSHU PANDA",
